@@ -1,0 +1,41 @@
+
+body{
+    background-image: url(../img/pro.jpg);
+    background-size: cover;
+}
+#imgIndex{
+    background-image: url(../img/img.jpg);
+    background-size: cover;
+}
+
+
+#part1C{
+    width: 50%;
+    margin-top: 6%;
+    margin-left: 25%;    
+    text-align: center;
+}
+#part2C{
+    width: 50%;
+    margin-top: 6%;
+    margin-left: 25%;
+    display: none;
+    text-align: center;
+}
+
+td,tr,th{
+    border-collapse:collapse;
+    border:1px solid black;
+}
+table{
+    text-align:center;
+    
+}
+.firstTest, .secondTest{
+    background-color:white;
+    border-radius:30px;
+    margin-top:15px;
+    margin-bottom:15px;
+    padding:15px;
+}
+
